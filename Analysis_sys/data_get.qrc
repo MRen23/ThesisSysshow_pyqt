@@ -1,0 +1,20 @@
+<RCC>
+  <qresource prefix="no">
+    <file>图像/office_image_get.png</file>
+  </qresource>
+  <qresource prefix="hotel">
+    <file>hotel_image_get.png</file>
+    <file>five_official.jpg</file>
+    <file>five_traveler.jpg</file>
+    <file>four_official.jpg</file>
+    <file>four_traveler.jpg</file>
+    <file>three_official.jpg</file>
+    <file>three_traveler.jpg</file>
+    <file>two_official.jpg</file>
+    <file>two_traveler_1.jpg</file>
+  </qresource>
+  <qresource prefix="office">
+    <file>co-worker.jpg</file>
+    <file>open_plan.jpg</file>
+  </qresource>
+</RCC>

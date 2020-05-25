@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>791</width>
+    <height>525</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QListWidget" name="listWidget">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>60</y>
+     <width>761</width>
+     <height>421</height>
+    </rect>
+   </property>
+   <item>
+    <property name="text">
+     <string>1</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>2</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>3</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>4</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>5</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>6</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>7</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>8</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>9</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>10</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>11</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>12</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>13</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>14</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>15</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>16</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>17</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>18</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>19</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>20</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>21</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>22</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>23</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>24</string>
+    </property>
+   </item>
+  </widget>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>380</x>
+     <y>20</y>
+     <width>91</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>聚类结果</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton">
+   <property name="geometry">
+    <rect>
+     <x>340</x>
+     <y>490</y>
+     <width>75</width>
+     <height>23</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>聚类评估</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

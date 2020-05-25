@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>893</width>
+    <height>838</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QTableWidget" name="tableWidget">
+   <property name="geometry">
+    <rect>
+     <x>50</x>
+     <y>70</y>
+     <width>231</width>
+     <height>621</height>
+    </rect>
+   </property>
+   <row>
+    <property name="text">
+     <string>1</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>2</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>3</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>4</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>5</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>6</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>7</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>8</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>10</string>
+    </property>
+   </row>
+   <column>
+    <property name="text">
+     <string>共享型办公室</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>频率</string>
+    </property>
+   </column>
+   <item row="0" column="0">
+    <property name="text">
+     <string>design</string>
+    </property>
+   </item>
+   <item row="0" column="1">
+    <property name="text">
+     <string>0.70163</string>
+    </property>
+   </item>
+   <item row="1" column="0">
+    <property name="text">
+     <string>furniture</string>
+    </property>
+   </item>
+   <item row="1" column="1">
+    <property name="text">
+     <string>0.48019</string>
+    </property>
+   </item>
+  </widget>
+  <widget class="QTableWidget" name="tableWidget">
+   <property name="geometry">
+    <rect>
+     <x>330</x>
+     <y>70</y>
+     <width>231</width>
+     <height>621</height>
+    </rect>
+   </property>
+   <row>
+    <property name="text">
+     <string>1</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>2</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>3</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>4</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>5</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>6</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>7</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>8</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>9</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>11</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>11</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>12</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>13</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>14</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>16</string>
+    </property>
+   </row>
+   <column>
+    <property name="text">
+     <string>开放式办公室</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>频率</string>
+    </property>
+   </column>
+   <item row="0" column="0">
+    <property name="text">
+     <string>design</string>
+    </property>
+   </item>
+   <item row="0" column="1">
+    <property name="text">
+     <string>0.75562</string>
+    </property>
+   </item>
+   <item row="1" column="0">
+    <property name="text">
+     <string>office</string>
+    </property>
+   </item>
+   <item row="1" column="1">
+    <property name="text">
+     <string>0.61236</string>
+    </property>
+   </item>
+   <item row="2" column="0">
+    <property name="text">
+     <string>furniture</string>
+    </property>
+   </item>
+   <item row="2" column="1">
+    <property name="text">
+     <string>0.39326</string>
+    </property>
+   </item>
+   <item row="3" column="0">
+    <property name="text">
+     <string>ceiling</string>
+    </property>
+   </item>
+   <item row="3" column="1">
+    <property name="text">
+     <string>0.36517</string>
+    </property>
+   </item>
+  </widget>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>90</x>
+     <y>30</y>
+     <width>171</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>共享型办公室图像标签统计</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_2">
+   <property name="geometry">
+    <rect>
+     <x>370</x>
+     <y>30</y>
+     <width>161</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>开放式办公室图像标签统计</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_3">
+   <property name="geometry">
+    <rect>
+     <x>670</x>
+     <y>30</y>
+     <width>181</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>办公室总图像数据集标签统计</string>
+   </property>
+  </widget>
+  <widget class="QTableWidget" name="tableWidget_2">
+   <property name="geometry">
+    <rect>
+     <x>630</x>
+     <y>70</y>
+     <width>231</width>
+     <height>621</height>
+    </rect>
+   </property>
+   <row>
+    <property name="text">
+     <string>1</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>2</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>3</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>4</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>5</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>6</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>7</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>8</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>9</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>11</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>11</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>12</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>13</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>14</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>16</string>
+    </property>
+   </row>
+   <column>
+    <property name="text">
+     <string>总数据集标签</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>频率</string>
+    </property>
+   </column>
+   <item row="0" column="0">
+    <property name="text">
+     <string>design</string>
+    </property>
+   </item>
+   <item row="0" column="1">
+    <property name="text">
+     <string>0.71333</string>
+    </property>
+   </item>
+   <item row="1" column="0">
+    <property name="text">
+     <string>furniture</string>
+    </property>
+   </item>
+   <item row="1" column="1">
+    <property name="text">
+     <string>0.46135</string>
+    </property>
+   </item>
+   <item row="2" column="0">
+    <property name="text">
+     <string>table</string>
+    </property>
+   </item>
+   <item row="2" column="1">
+    <property name="text">
+     <string>0.36884</string>
+    </property>
+   </item>
+   <item row="3" column="0">
+    <property name="text">
+     <string>office</string>
+    </property>
+   </item>
+   <item row="3" column="1">
+    <property name="text">
+     <string>0.36093</string>
+    </property>
+   </item>
+  </widget>
+  <widget class="QPushButton" name="pushButton">
+   <property name="geometry">
+    <rect>
+     <x>100</x>
+     <y>740</y>
+     <width>75</width>
+     <height>23</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>可视化</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_2">
+   <property name="geometry">
+    <rect>
+     <x>390</x>
+     <y>740</y>
+     <width>75</width>
+     <height>23</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>可视化</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_3">
+   <property name="geometry">
+    <rect>
+     <x>720</x>
+     <y>740</y>
+     <width>75</width>
+     <height>23</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>可视化</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
