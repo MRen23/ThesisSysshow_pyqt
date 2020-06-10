@@ -1,0 +1,131 @@
+@article{DBLP:journals/eor/MandelV20,
+  author    = {Antoine Mandel and
+               Xavier Venel},
+  title     = {Dynamic competition over social networks},
+  journal   = {European Journal of Operational Research},
+  volume    = {280},
+  number    = {2},
+  pages     = {597--608},
+  year      = {2020},
+  url       = {https://doi.org/10.1016/j.ejor.2019.07.028},
+  doi       = {10.1016/j.ejor.2019.07.028},
+  timestamp = {Thu, 14 Nov 2019 15:37:00 +0100},
+  biburl    = {https://dblp.org/rec/bib/journals/eor/MandelV20},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+
+
+@article{DBLP:journals/aai/ZandianK19,
+  author    = {Zahra Karimi Zandian and
+               Mohammad Reza Keyvanpour},
+  title     = {Feature Extraction Method Based on Social Network Analysis},
+  journal   = {Applied Artificial Intelligence},
+  volume    = {33},
+  number    = {8},
+  pages     = {669--688},
+  year      = {2019},
+  url       = {https://www.tandfonline.com/doi/full/10.1080/08839514.2019.1592347},
+  timestamp = {Tue, 02 Jul 2019 10:07:43 +0200},
+  biburl    = {https://dblp.org/rec/bib/journals/aai/ZandianK19},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+
+
+Social Network Identification Through Image Classification With CNN.
+
+A User Identification Algorithm Based on User Behavior Analysis in Social Networks
+
+Integrating Social Homophily and Network Lasso for Personalized Sentiment Classification
+
+Association Rules Mining Among Interests and Applications for Users on Social Networks
+
+Search Personalization Based on Social-Network-Based Interestedness Measures
+
+A Unified Semantic Model for Cross-Media Events Analysis in Online Social Networks.
+
+Analysis of Influence Maximization in Temporal Social Networks
+
+Exploratory Analysis for Big Social Data Using Deep Network.
+
+Analysis of Effects to Journal Impact Factors Based on Citation Networks Generated via Social Computing. 
+
+Distributed Centrality Analysis of Social Network Data Using MapReduce
+
+Social network site use and Big Five personality traits: A meta-analysis
+
+Recommendations-based on semantic analysis of social networks in learning environments.
+
+Building social computing system in big data: From the perspective of social network analysis.
+
+User sentiment analysis based on social network information and its application in consumer reconstruction intention
+
+Analysis and Applications of Complex Social Networks 2018.
+
+Privacy Analysis on Microblogging Online Social Networks: A Survey.
+
+Using social network and semantic analysis to analyze online travel forums and forecast tourism demand.
+
+Extracting social networks from e-government by sentiment analysis of users' comments.（用户评论）
+
+An approach to identify user preferences based on social network analysis
+
+User role identification based on social behavior and networking analysis for information dissemination.
+
+Analysis of Travellers' Online Reviews in Social Networking Sites Using Fuzzy Logic Approach.（用户评论）
+
+Dynamic social network analysis and performance evaluation
+
+Semantically enhanced network analysis for influencer identification in online social networks.
+
+Extensive use of online social networks: a qualitative analysis of Iranian students' perspectives（社交网络的广泛使用）
+
+Movie Recommendation Algorithm Using Social Network Analysis to Alleviate Cold-Start Problem（推荐系统）
+
+Thematic series on Social Network Analysis and Mining
+
+Academic social networks: Modeling, analysis, mining and applications
+
+Can Tourist Attractions Boost Other Activities Around? A Data Analysis through Social Networks
+
+A Distance Measure for the Analysis of Polar Opinion Dynamics in Social Networks
+
+A novel user behavior analysis and prediction algorithm based on mobile social environment（用户行为分析）
+
+Analysis of Online Social Network after an Event
+
+Appliance of Social Network Analysis and Data Visualization Techniques in Analysis of Information Propagation.
+
+Analysis of Community In Social Networks Based on Game Theory
+
+Similarity Analysis of Criminals on Social Networks: An Example on Twitter.
+
+Influence and Behavior Analysis in Social Networks and Social Media
+
+Behavior-Interior-Aware User Preference Analysis Based on Social Networks
+
+Social networking data analysis tools & challenges
+
+Social network analysis: An overview
+
+Sentiment Analysis of Users on Social Networks: Overcoming the challenge of the Loose Usages of the Algerian Dialect
+
+Social Networks Analysis in a Business Intelligence Context. 
+
+Sentiment Analysis of Short Texts from Social Networks Using Sentiment Dictionaries and Blending of Machine Learning Algorithms.
+
+Sentiment Analysis to Enhance Detection of Latent Astroturfing Groups in Online Social Networks.
+
+Behavioral Analysis of Users for Spammer Detection in a Multiplex Social Network
+
+Context Analysis of Scientific Social Networks. （文本分析）
+
+Image Analysis for Privacy Assessment in Social Networks.（图像分析）
+
+User Behavior Analysis of Location-Based Social Network （基于位置的社交网络用户行为分析）
+
+Sentiment Analysis of Reviews. （评论分析）
+
+
+

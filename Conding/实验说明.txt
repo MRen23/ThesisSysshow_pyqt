@@ -1,0 +1,21 @@
+该文件为任萌研究生毕业设计实验部分文档（图像内容识别技术和对比挖掘在网站分析中的应用研究）
+1. crawl的文件夹为爬虫部分内容
+2. dataset的文件夹为数据部分内容其中包含图片的url以及通过google cloud vision API和IBM Cloud Visual Recognition进行图像识别的结果。
+数据集大小为：
+TripAdvisor澳门地区酒店官方和游客上传图片
+
+官方图片：
+五星级：1221
+四星级：849
+三星级：222
+二星级：105
+
+游客图片
+五星级：32023
+四星级：15249
+三星级：3627
+二星级：517
+
+3. photo_detect_google为python调用Google Cloud Vision API的代码
+4. Data preprocessing.ipynb 为数据预处理部分代码
+5. 
